@@ -5,11 +5,21 @@
 
 # Institute : Indian Institute Of Technology Patna.
 
-# Topic: - 
-
-# House Rate Prediction
+# Topic: House Rate Prediction
 
 Dataset is taken from Kaggle.
 
 # Description: - 
-This is a notebook for visualization of various features upon which the selling price of a house depends and for predicting the selling price of  a house.
+The aim of the project is to visualize the dependence of the selling price of houses on various features and predict the selling price of houses. Two files, train, and test are provided and the price of the test data is to be estimated.
+
+The Algorithms used for prediction: -
+
+1. Gradient Boosting Regression.
+2. Random Forest Regression.
+3. Linear Regression.
+4. TheilSen Regressor.
+5. RANSAC Regressor.
+6. Lasso Regression.
+7. Decision Tree.
+8. Support Vector Regression.
+9. Catboost Regression.
