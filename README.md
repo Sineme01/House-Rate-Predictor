@@ -1,9 +1,9 @@
 # 2001CB07_CS299_2022
-# Name : Anand Kumar
+ Name : Anand Kumar
 
-# Roll : 2001CB07
+ Roll : 2001CB07
 
-# Institute : Indian Institute Of Technology Patna.
+ Institute : Indian Institute Of Technology Patna.
 
 # Topic: House Rate Prediction
 
