@@ -25,3 +25,8 @@ The Algorithms used for prediction: -
 7. Decision Tree.
 8. Support Vector Regression.
 9. Catboost Regression.
+
+Metrics used: -
+1. Rsquare
+2. RMSE
+3. MAE
