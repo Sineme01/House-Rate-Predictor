@@ -12,6 +12,8 @@ Dataset is taken from Kaggle.
 # Description: - 
 The aim of the project is to visualize the dependence of the selling price of houses on various features and predict the selling price of houses. Two files, train, and test are provided and the price of the test data is to be estimated.
 
+Data Correlation technique is used to find the correlation between the feature and target. Then the features are analyzed in their descending correlation values with the sales price.
+
 The Algorithms used for prediction: -
 
 1. Gradient Boosting Regression.
