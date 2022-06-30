@@ -30,3 +30,7 @@ Metrics used: -
 1. Rsquare
 2. RMSE
 3. MAE
+
+Model Evaluation: - 
+ 
+On the basis of the values of metrics obtained, Linear Regression is found to be the best model with a Rsquare value 1.000000e+00 or 100%, RMSE value 7.010729e-13, and MAE value 4.976863e-07.
