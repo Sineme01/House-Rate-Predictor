@@ -1,6 +1,3 @@
-# 2001CB07_CS299_2022
- Name : Anand Kumar
-
 # Topic: House Rate Predictor.
 
 Dataset is taken from Kaggle.
