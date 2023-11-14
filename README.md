@@ -26,7 +26,6 @@ Metrics used: -
 
 Model Evaluation: - 
  
-On the basis of the values of metrics obtained, Linear Regression is found to be the best model with a Rsquare value 1.000000e+00 or 100%, RMSE value 7.010729e-13, and MAE value 4.976863e-07.
+On the basis of the values of metrics obtained, **Gradient Boosting Regression** is found to be the best model with a Rsquare value 0.890440 or 89.04%, RMSE value 0.016931, and MAE value 0.086820.
 
-![image](https://user-images.githubusercontent.com/89066810/214826021-3f8a35c8-978d-4829-bccb-021c1eb65b68.png)
-
+![image](https://github.com/Sineme01/House-Rate-Predictor/assets/89066810/0b7101fd-182b-47ef-afad-73ab062065e0)
